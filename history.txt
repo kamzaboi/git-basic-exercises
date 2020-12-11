@@ -1,0 +1,150 @@
+    1  
+    2  git-basic-exercises
+    3  git status
+    4  git config
+    5  git config --global user.name "kamzaboi"
+    6  git config --global user.email kmogane97@gmail.com
+    7  git config --list
+    8  cd  C:/Users/user/my_project
+    9  git-basic-exercises
+   10  cd: git-basic-exercises
+   11  git-basic-exercises
+   12  cd/c/
+   13  cd/c:User/mogane/git-basic-exercises
+   14  pwd
+   15  cd/git-basic-exercises
+   16  c/Users/mogane/git-basic-exercises
+   17  cd /git-basic-exercises/
+   18  cd /c:/Users/mogane/git-basic-exercises/
+   19  cd /c:/Users/mogane/git-basic-exercises
+   20   /c:/Users/mogane/git-basic-exercises
+   21   /c/Users/mogane/git-basic-exercises
+   22  is -a
+   23  1s-a
+   24  Is -a
+   25  Is -a
+   26  git init
+   27  Is -a
+   28  Is -a
+   29  git status
+   30  touch README.md
+   31  Is -a
+   32  git status
+   33  git log
+   34  git log
+   35  git add
+   36  git add README.md
+   37  git status
+   38  git commit -m "initial commit"
+   39  git log
+   40  q
+   41  nano README.md
+   42  cat README.md
+   43  git status
+   44  git commit -a
+   45  cd /c/Users/mogane/git-basic-exercises
+   46  nano READMe.md
+   47  cat READMe.md
+   48  git stats
+   49  git status
+   50  git status
+   51  git commit -m "second commit"
+   52  git status
+   53  nano READMe.md
+   54  cat
+   55  cd /c/Users/mogane/git-basic-exercise/
+   56  cd /c/Users/mogane/git-basic-exercise/
+   57  cd /c/Users/mogane/git-basic-exercises/
+   58  git remote add origin https://github.com/kamzaboi/git-basic-exercises.git
+   59  git branch -M main
+   60  git push -u origin main
+   61  cd /c/Users/mogane/git-basic-exercises/
+   62  git status
+   63  git add <README.md>
+   64  git merge milkshake-flavours
+   65  git status
+   66  git merge history
+   67  git pull origin merger
+   68  git commit
+   69  vim README.md
+   70  cd /c/Users/mogane/git-basic-exercises/
+   71  git add
+   72  git add .
+   73  git add ...
+   74  vim README.md
+   75  git status
+   76  git commit
+   77  git commit -m
+   78  git commit -a
+   79  cd /c/Users/mogane/git-basic-exercises/
+   80  git merge milkshake-flavours
+   81  git config merge.tool vimdiff
+   82  git config merge.conflictstyle diff3
+   83  cd /c/Users/mogane/git-basic-exercises/
+   84  git config merge.tool vimdiff
+   85  git config merge.conflictstyle diff3
+   86  git config mergetool.prompt false
+   87  git mergetool
+   88  cd /c/Users/mogane/git-basic-exercises/
+   89  git status
+   90  git status
+   91  git merge milkshake-flavours
+   92  git pull origin master
+   93  git add -A
+   94  git commit -m "Manually merged upstream update"
+   95  cd /desktop/git-basic-exercise/
+   96  cd /desktop/git-basic-exercises/
+   97  cd /c/Users/mogane/desktop/git-basic-exercises/
+   98  ls -a
+   99  git init
+  100  ls -a
+  101  git status
+  102  touch README.md
+  103  ls -a
+  104  git status
+  105  git log
+  106  git add .
+  107  git status
+  108  git commit -m "initial commit"
+  109  git log
+  110  q
+  111  nano README.md
+  112  cat README.md
+  113  git status
+  114  git commit -m "second commit"
+  115  git log
+  116  git add .
+  117  git commit -m "second commit"
+  118  git log
+  119  nano README.md
+  120  cat README.md
+  121  git add .
+  122  git commit -m "third commit"
+  123  git log
+  124  q
+  125  git checkout 19253195553d663f7c7b16c7ea494f9f1b098146
+  126  cat README.md
+  127  git checkout main
+  128  cat README.md
+  129  git checkout main
+  130  git checkout git
+  131  git checkout 5eca8998f989e1a93c35684ef6a3b956b615e22e
+  132  cat README.md
+  133  git branch
+  134  git branch milkshake-flavours
+  135  git branch
+  136  git checkout milkshake-flavours
+  137  nano milkshakes.md
+  138  git status
+  139  git add .
+  140  git commit -m "added initial flavours"
+  141  git log
+  142  cd /c/Users/mogane/desktop/git-basic-exercises/
+  143  git checkout main
+  144  git checkout master
+  145  git branch history
+  146  git log
+  147  git checkout history
+  148  git log
+  149  git branch
+  150  history > history.txt
